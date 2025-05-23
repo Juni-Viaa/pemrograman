@@ -8,9 +8,9 @@
     <p class="mb-4">Berikut adalah berita update di hari ini</p>
     
     @include('components.card', [
-        'imgsrc' => 'images/download.jpeg',
-        'title' => 'Gonggong goreng Tepung mak Limah',
-        'desc' => 'Kuliner unik satu ini wajib dicoba untuk menguji ketahanan gigi.'
+        'imgsrc' => 'images/kakap.jpeg',
+        'title' => 'Ikan Kakap Merah',
+        'desc' => 'Ikan kakap merah (Lutjanus sp.) merupakan salah satu spesies ikan laut yang sangat populer di kalangan masyarakat Indonesia. Sebagai bahan baku utama dalam berbagai hidangan laut, ikan ini memiliki nilai ekonomis dan gizi yang tinggi. Dalam ekologi, jenis ikan ini adalah salah satu komponen penting dalam rantai makanan di kawasan terumbu karang. Berikut adalah penjelasan mengenai morfologi dan habitat ikan kakap merah, dan karakteristiknya.'
     ])
 
 @endsection
